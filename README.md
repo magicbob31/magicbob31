@@ -1,1 +1,1 @@
-<img class="img" src="./assets/Untitled ‑ Made with FlexClip.gif" alt="" />
+<img class="img" src="./assets/myclip.gif" alt="" />
